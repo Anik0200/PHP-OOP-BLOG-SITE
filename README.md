@@ -1,23 +1,33 @@
 ## ABOUT THIS PROJECT :
 
 This Is a Laravel Blog Site Project repository! 
-This project is a fully-featured blogging platform built with the popular PHP laguage. 
+This project is a fully-featured blogging platform built with PHP (OOP). 
 
 ## FEATURES :
 
 - Authentication & Authorization
+- Admin Dashboard
 - CRUD Functionality
 - Category Management
-- Admin Dashboard
-- SEO-Friendly
+- Post Management
+- Comment Management
 - Search Functionality
 - Responsive Design
 - Clean and Modern Layout
 - Lightweight and Fast
 
+## INSTALLATION :
+
+- Clone Or Download The Project
+- Find The DataBase.sql File In Project Directory
+- Import Database File In PHP My Admin
+- Open The Project On Browser
+- Login Email: admin@gmail.com 
+- Login Passwoed: 12345 
+
 ## TECHNOLOGY USED :
 
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge)
+![PHP (OOP)](https://img.shields.io/badge/PHP-blue?style=for-the-badge)
 ![MySql](https://img.shields.io/badge/MySql-blue?style=for-the-badge)
 ![AJAX](https://img.shields.io/badge/AJAX-black?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge)
