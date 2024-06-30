@@ -27,8 +27,13 @@ This project is a fully-featured blogging platform built with PHP (OOP).
 
 ## TECHNOLOGY USED :
 
-- PHP - OOP - LARAVEL - MySql
-  
-- JAVASCRIPT - jQuery - AJAX
-  
-- BOOTSTRAP - CSS - HTML
+- PHP
+- OOP
+- LARAVEL
+- MySql
+- JAVASCRIPT
+- jQuery
+- AJAX
+- HTML
+- CSS
+- BOOTSTRAP
